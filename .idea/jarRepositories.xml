@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdc-releases" />
+      <option name="name" value="rdc-releases" />
+      <option name="url" value="https://packages.aliyun.com/maven/repository/2116869-release-XOtw44/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshot" />
+      <option name="name" value="maven-snapshot" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-public" />
+      <option name="name" value="aliyun-public" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shib" />
+      <option name="name" value="shib" />
+      <option name="url" value="https://build.shibboleth.net/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyunmavenApache" />
+      <option name="name" value="aliyunmavenApache" />
+      <option name="url" value="https://maven.aliyun.com/repository/apache-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdc-snapshots" />
+      <option name="name" value="rdc-snapshots" />
+      <option name="url" value="https://packages.aliyun.com/maven/repository/2116869-snapshot-vs7gL6/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="google" />
+      <option name="name" value="google" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dremio-free" />
+      <option name="name" value="dremio-free" />
+      <option name="url" value="http://maven.dremio.com/free/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mule" />
+      <option name="name" value="mule" />
+      <option name="url" value="https://repository.mulesoft.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dremio-public" />
+      <option name="name" value="dremio-public" />
+      <option name="url" value="http://maven.dremio.com/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sprintio" />
+      <option name="name" value="sprintio" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring/" />
+    </remote-repository>
+  </component>
+</project>
